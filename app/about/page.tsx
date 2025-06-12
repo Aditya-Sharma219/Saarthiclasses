@@ -15,7 +15,7 @@ export default function About() {
           consistent practice, and doubt resolution — the key ingredients for academic success.
         </p>
         <p className="text-md text-gray-600">
-          Whether you're a school student aiming to excel in boards or a competitive aspirant targeting top ranks,
+          Whether you&apos;re a school student aiming to excel in boards or a competitive aspirant targeting top ranks,
           SaarthiClasses is your academic companion — your Saarthi — on the journey to success.
         </p>
       </div>
