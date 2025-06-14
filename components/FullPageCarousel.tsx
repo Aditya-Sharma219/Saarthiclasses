@@ -5,15 +5,15 @@ import Image from 'next/image'
 
 export default function FullPageCarousel() {
   const landscapeImages = [
-    '/images/landscape1.jpg',
-    '/images/landscape2.jpg',
-    '/images/landscape3.jpg',
+    '/images/l1.jpg',
+    '/images/l2.jpg',
+    '/images/l3.jpg',
   ]
 
   const portraitImages = [
-    '/images/portrait1.jpg',
-    '/images/portrait2.jpg',
-    '/images/portrait3.jpg',
+    '/images/p1.jpg',
+    '/images/p2.jpg',
+    '/images/p3.jpg',
   ]
 
   const [currentIndex, setCurrentIndex] = useState(0)

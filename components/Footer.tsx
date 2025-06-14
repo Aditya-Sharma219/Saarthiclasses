@@ -26,7 +26,9 @@ export default function Footer() {
 
         {/* Right - Contact Info + Socials */}
         <div className="text-center md:text-right text-sm">
-          <p>📍 Noida, India</p>
+          <p>📍B-193 Gate No. 3, Sec - 52, </p>
+          <p> Near Adarsh public school,</p>
+          <p>  Noida, India</p>
           <p>
             📧{' '}
             <a
@@ -36,7 +38,8 @@ export default function Footer() {
               support@saarthiclasses.com
             </a>
           </p>
-          <p>📞 +91 98765 43210</p>
+          <p>📞 +91 70679 47276</p>
+          <p>📞 +91 95996 64973</p>
 
           <div className="flex justify-center md:justify-end mt-3 gap-4 text-lg">
             <a

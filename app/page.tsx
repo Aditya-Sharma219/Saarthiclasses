@@ -11,10 +11,12 @@ export default function Home() {
       <FullPageCarousel />
       <div className="max-w-7xl mx-auto px-4 py-8">
         <h2 className="text-3xl font-bold text-center mb-6">Our Toppers</h2>
-        <ToppersCarousel />
-        <VideoSection />
-        <Contact />
       </div>
+        <ToppersCarousel />
+        <div className="w-full h-[12px] bg-gray-800" />
+        <VideoSection />
+        <div className="w-full h-[12px] bg-gray-800" />
+        <Contact />
     </div>
   );
 }
